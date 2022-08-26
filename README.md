@@ -1,2 +1,2 @@
 # git_test
-My first GutHub repo!
+My first GitHub repo!
